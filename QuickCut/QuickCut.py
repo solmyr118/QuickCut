@@ -47,8 +47,8 @@ from ali_speech.constant import ASRSampleRate
 
 from audiotsm import phasevocoder
 from audiotsm.io.wav import WavReader, WavWriter
-from qcloud_cos import CosConfig
-from qcloud_cos import CosS3Client
+# from qcloud_cos import CosConfig
+# from qcloud_cos import CosS3Client
 from scipy.io import wavfile
 from tencentcloud.asr.v20190614 import asr_client, models
 from tencentcloud.common import credential

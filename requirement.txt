@@ -1,0 +1,13 @@
+srt
+keyboard
+pyaudio
+auditok
+pymediainfo
+oss2
+PyQt5
+ali_speech
+audiotsm
+tencentcloud-sdk-python
+
+# ali_speech  老版本
+#https://github.com/stevezheng/alibabacloud_nls_python_sdk/tree/master
